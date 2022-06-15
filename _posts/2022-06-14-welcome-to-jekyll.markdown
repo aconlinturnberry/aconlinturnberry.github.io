@@ -5,12 +5,12 @@ date:   2022-06-14 15:19:40 -0500
 categories: jekyll update
 ---
 
-```mermaid!
-pie title Pets adopted by volunteers
+@startmermaid
+pie title PETST adopted by volunteers
   "Dogs" : 386
   "Cats" : 85
   "Rats" : 35
-```
+@endmermaid
 
 TESTESTTEST TEST AGAIN
 
