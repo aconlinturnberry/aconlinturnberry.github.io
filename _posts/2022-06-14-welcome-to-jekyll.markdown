@@ -5,13 +5,12 @@ date:   2022-06-14 15:19:40 -0500
 categories: jekyll update
 ---
 
-{% mermaid %}
-graph TD; 
-  A-->B;
-   A-->C; 
-   B-->D; 
-   C-->D;
-{% endmermaid %}
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
+```
 
 TESTESTTEST TEST AGAIN
 

@@ -34,10 +34,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-mermaid
+  - jekyll-spaceship
 
 mermaid:
-  src: "assets/js/mermaid.min.js"
-
+  src: "/assets/js/mermaid.min.js"
 
 future: true
 # Exclude from processing.
