@@ -1,19 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "XYC, Inc!"
 date:   2022-06-14 15:19:40 -0500
-categories: jekyll update
 ---
-@startmermaid
-pie title PETST adopted by volunteers
-  "Dogs" : 386
-  "Cats" : 85
-  "Rats" : 35
-@endmermaid
+
+### Description
+XYZ, Inc. collects data feeds about real estate transactions and offers consolidated search, reporting, and other features on the standardize set of data e.g., a core set of metadata and then extensions as a property bag specific to each provider. They want a program that will accept data from their clients and manipulate the data to format it into an industry standard. This is in order to successfully organize data in a readable way for their clients to work with.
+
 
 [![](https://mermaid.ink/img/pako:eNpVkM-KwkAMxl8l5OSCfYEeBG3Vi6Cgt46H0InOIPOHdMoibd99p5aF3ZyS7_t9IWTANmjGEp9C0cCtVh5ybZvKiO2So-4ORbEZj5zABc_vEXarY4DOhBitf34t_G6GoBpOM8aQjPWvabGqT_7seYS6OVFMId7_OrfvMMK-sReT1_93jHBOHZoHlQ8qWhKoSD4IrtGxOLI6nz7MisJk2LHCMrea5KVQ-SlzfdSUeK9tCoJlkp7XSH0K17dvf-eFqS3lL7hFnH4ABg5bBA)](https://mermaid.live/edit#pako:eNpVkM-KwkAMxl8l5OSCfYEeBG3Vi6Cgt46H0InOIPOHdMoibd99p5aF3ZyS7_t9IWTANmjGEp9C0cCtVh5ybZvKiO2So-4ORbEZj5zABc_vEXarY4DOhBitf34t_G6GoBpOM8aQjPWvabGqT_7seYS6OVFMId7_OrfvMMK-sReT1_93jHBOHZoHlQ8qWhKoSD4IrtGxOLI6nz7MisJk2LHCMrea5KVQ-SlzfdSUeK9tCoJlkp7XSH0K17dvf-eFqS3lL7hFnH4ABg5bBA)
 
-TESTESTTEST TEST AGAIN
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
